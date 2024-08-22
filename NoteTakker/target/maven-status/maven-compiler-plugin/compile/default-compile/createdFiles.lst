@@ -1,0 +1,5 @@
+com\todo\entities\Note.class
+com\todo\sevlets\SaveNoteServlet.class
+com\todo\helper\FactoryProvider.class
+com\todo\sevlets\DeleteServlet.class
+com\todo\sevlets\UpdateServlet.class
